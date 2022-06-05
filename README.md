@@ -1,5 +1,5 @@
 <h2>LuemmelSec Stats</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)(https://github.com/anuraghazra/github-readme-stats)
   
   
 [![Twitter: LuemmelSec](https://img.shields.io/twitter/follow/TheLuemmel?style=flat-square)](https://twitter.com/theluemmel)  
