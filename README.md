@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luemmelsec&show_icons=true&theme=cobalt" width=410/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luemmelsec&show_icons=true&theme=cobalt" width=405/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luemmelsec&theme=cobalt&layout=compact" width=340 />
