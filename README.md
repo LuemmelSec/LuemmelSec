@@ -10,10 +10,8 @@
 <p align="left">
       <img src="https://img.shields.io/twitter/follow/TheLuemmel?style=flat-square" />
     </a>
-    <a href="https://codecov.io/gh/luemmelsec/github-readme-stats">
-      <img src="https://img.shields.io/github/followers/LuemmelSec?label=follow%20github&style=flat-square" />
+          <img src="https://img.shields.io/github/followers/LuemmelSec?label=follow%20github&style=flat-square" />
     </a>
-    <a href="https://github.com/luemmelsec/github-readme-stats/issues">
-      <img src="https://komarev.com/ghpvc/?username=LuemmelSec&label=Profile%20views&color=0e75b6&style=flat" />
+          <img src="https://komarev.com/ghpvc/?username=LuemmelSec&label=Profile%20views&color=0e75b6&style=flat" />
     </a>
   </p>
