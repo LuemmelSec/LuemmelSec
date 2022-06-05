@@ -1,5 +1,5 @@
 <h2>LuemmelSec Stats</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LuemmelSec" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LuemmelSec">
   
   
   
@@ -8,4 +8,4 @@
 <img src="https://komarev.com/ghpvc/?username=LuemmelSec&label=Profile%20views&color=0e75b6&style=flat" alt="LuemmelSec"> 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
