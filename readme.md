@@ -1,13 +1,8 @@
 <h2>LuemmelSec</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=LuemmelSec&show_icons=true&theme=dark" width="380">
-<p><em>5+ years penetration testing<br>
-  Scripting in my spare time, pwning ⚡ at work!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-[![Twitter: LuemmelSec](https://img.shields.io/twitter/follow/ShitSecure?style=flat-square)](https://twitter.com/ShitSecure)
+[![Twitter: LuemmelSec](https://img.shields.io/twitter/follow/LuemmelSec?style=flat-square)](https://twitter.com/theluemmel)
 [![GitHub LuemmelSec](https://img.shields.io/github/followers/LuemmelSec?label=follow%20github&style=flat-square)](https://github.com/LuemmelSec)
-[![YouTube LuemmelSec](https://img.shields.io/youtube/channel/subscribers/UC27i77nEwKE8hffrxNqXNOg?label=follow%20Youtube&style=social)](https://www.youtube.com/channel/UC27i77nEwKE8hffrxNqXNOg)
-[![Twitch Status](https://img.shields.io/twitch/status/s3cur3th1sshlt?label=Follow%20Twitch&style=social)](https://www.twitch.tv/s3cur3th1sshlt)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuemmelSec&label=Profile%20views&color=0e75b6&style=flat" alt="LuemmelSec" /> </p>
 <br>
