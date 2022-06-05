@@ -8,7 +8,6 @@
 <br>
 <br>
 <p align="left">
-    <a href="https://github.com/luemmelsec/github-readme-stats/actions">
       <img src="https://img.shields.io/twitter/follow/TheLuemmel?style=flat-square" />
     </a>
     <a href="https://codecov.io/gh/luemmelsec/github-readme-stats">
