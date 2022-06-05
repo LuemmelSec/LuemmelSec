@@ -1,6 +1,5 @@
 <h2>LuemmelSec Stats</h2>
-![LuemmelSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=luemmelsec&show_icons=true&theme=cobalt)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luemmelsec&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
   
   
 [![Twitter: LuemmelSec](https://img.shields.io/twitter/follow/TheLuemmel?style=flat-square)](https://twitter.com/theluemmel)  
