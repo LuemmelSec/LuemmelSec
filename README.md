@@ -1,5 +1,5 @@
 <h2>LuemmelSec Stats</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LuemmelSec">
+[![LuemmelSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=luemmelsec&show_icons=true&theme=cobalt)](https://github.com/luemmelsec/github-readme-stats)
   
   
   
